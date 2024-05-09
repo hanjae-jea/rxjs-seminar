@@ -10,8 +10,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "html-webpack-plugin": "^5.6.0",
     "http-server": "^14.1.1",
     "rxjs": "^7.8.1",
+    "ts-loader": "^9.5.1",
+    "tsx": "^4.9.3",
     "typescript": "^5.4.5",
     "webpack": "^5.91.0",
     "webpack-cli": "^5.1.4",
